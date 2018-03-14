@@ -5,7 +5,7 @@ I'll post projects as they're completed as I'm still in progress on the nanodegr
 
 Current Projects on here:
 - Carnival
+- Apartment
 
 In Progress:
-- Apartment
 - Maze
