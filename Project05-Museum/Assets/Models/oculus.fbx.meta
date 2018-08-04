@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: e5463e30f8076fe46b50e13cd3acd5cf
+timeCreated: 1532513638
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube.012_Cube.003
+    100002: Cube.015_Cube.008
+    100004: Cube.016_Cube.012
+    100006: Cube.017_Cube.013
+    100008: Cube.018_Cube.019
+    100010: Cube.019_Cube.020
+    100012: Cube.020_Cube.021
+    100014: Cube.021_Cube.022
+    100016: Cube.023_Cube.024
+    100018: Cube.024_Cube.025
+    100020: Cube.025_Cube.026
+    100022: Cube.026_Cube.027
+    100024: Cube.027_Cube.031
+    100026: Cube.028_Cube.029
+    100028: Cube.029_Cube.030
+    100030: cv1_FF
+    100032: cv1_FF_root
+    100034: Cylinder.001_Cylinder.002
+    100036: Cylinder.003_Cylinder.001
+    100038: Cylinder.006_Cylinder.006
+    100040: Cylinder.008_Cylinder.008
+    100042: Cylinder.009_Cylinder.009
+    100044: //RootNode
+    400000: Cube.012_Cube.003
+    400002: Cube.015_Cube.008
+    400004: Cube.016_Cube.012
+    400006: Cube.017_Cube.013
+    400008: Cube.018_Cube.019
+    400010: Cube.019_Cube.020
+    400012: Cube.020_Cube.021
+    400014: Cube.021_Cube.022
+    400016: Cube.023_Cube.024
+    400018: Cube.024_Cube.025
+    400020: Cube.025_Cube.026
+    400022: Cube.026_Cube.027
+    400024: Cube.027_Cube.031
+    400026: Cube.028_Cube.029
+    400028: Cube.029_Cube.030
+    400030: cv1_FF
+    400032: cv1_FF_root
+    400034: Cylinder.001_Cylinder.002
+    400036: Cylinder.003_Cylinder.001
+    400038: Cylinder.006_Cylinder.006
+    400040: Cylinder.008_Cylinder.008
+    400042: Cylinder.009_Cylinder.009
+    400044: //RootNode
+    2100000: glass.001
+    2100002: darkmetal.001
+    2100004: bandrubber
+    2100006: OutsideHMD
+    2100008: ShinierPlastic
+    2100010: blackspecular
+    2100012: clothband
+    2100014: tag
+    2100016: blackfoam
+    2100018: insidemesh
+    2100020: Inisiderift.001
+    2100022: ShinierPlasticNoLogo
+    2100024: ShinierPlastic.001
+    2100026: Headphonemesh
+    2300000: Cube.012_Cube.003
+    2300002: Cube.015_Cube.008
+    2300004: Cube.016_Cube.012
+    2300006: Cube.017_Cube.013
+    2300008: Cube.018_Cube.019
+    2300010: Cube.019_Cube.020
+    2300012: Cube.020_Cube.021
+    2300014: Cube.021_Cube.022
+    2300016: Cube.023_Cube.024
+    2300018: Cube.024_Cube.025
+    2300020: Cube.025_Cube.026
+    2300022: Cube.026_Cube.027
+    2300024: Cube.027_Cube.031
+    2300026: Cube.028_Cube.029
+    2300028: Cube.029_Cube.030
+    2300030: Cylinder.001_Cylinder.002
+    2300032: Cylinder.003_Cylinder.001
+    2300034: Cylinder.006_Cylinder.006
+    2300036: Cylinder.008_Cylinder.008
+    2300038: Cylinder.009_Cylinder.009
+    3300000: Cube.012_Cube.003
+    3300002: Cube.015_Cube.008
+    3300004: Cube.016_Cube.012
+    3300006: Cube.017_Cube.013
+    3300008: Cube.018_Cube.019
+    3300010: Cube.019_Cube.020
+    3300012: Cube.020_Cube.021
+    3300014: Cube.021_Cube.022
+    3300016: Cube.023_Cube.024
+    3300018: Cube.024_Cube.025
+    3300020: Cube.025_Cube.026
+    3300022: Cube.026_Cube.027
+    3300024: Cube.027_Cube.031
+    3300026: Cube.028_Cube.029
+    3300028: Cube.029_Cube.030
+    3300030: Cylinder.001_Cylinder.002
+    3300032: Cylinder.003_Cylinder.001
+    3300034: Cylinder.006_Cylinder.006
+    3300036: Cylinder.008_Cylinder.008
+    3300038: Cylinder.009_Cylinder.009
+    4300000: Cube.024_Cube.025
+    4300002: Cube.016_Cube.012
+    4300004: Cube.029_Cube.030
+    4300006: Cylinder.001_Cylinder.002
+    4300008: Cube.012_Cube.003
+    4300010: Cube.019_Cube.020
+    4300012: Cylinder.008_Cylinder.008
+    4300014: Cube.025_Cube.026
+    4300016: Cube.018_Cube.019
+    4300018: Cylinder.003_Cylinder.001
+    4300020: Cube.027_Cube.031
+    4300022: Cube.023_Cube.024
+    4300024: Cube.028_Cube.029
+    4300026: Cube.021_Cube.022
+    4300028: Cube.026_Cube.027
+    4300030: Cube.020_Cube.021
+    4300032: Cylinder.009_Cylinder.009
+    4300034: Cube.015_Cube.008
+    4300036: Cylinder.006_Cylinder.006
+    4300038: Cube.017_Cube.013
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
