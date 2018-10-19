@@ -1,9 +1,6 @@
 # Puzzler
-Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
-- Course: VR Design
-- Project: Puzzler
-
+This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
 ### Versions Used
 - [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)

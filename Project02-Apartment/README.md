@@ -9,9 +9,6 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - [GVR Unity SDK v1.70.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/1.70.0)
 
 ### Notes
-
-This project was built for Google Cardboard on Android and tested with a Samsung Galaxy S5 running API 19.
-
 I chose to leave the lightmaps uncompressed for this project because
 1) Most people don't care much for blocky, pixelated lighting
 2) The project is small enough that the hardware can handle it
