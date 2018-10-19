@@ -1,4 +1,4 @@
-# Udacity Carnival Starter Project READ ME
+# Udacity Carnival Starter Project
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
@@ -18,3 +18,7 @@ Github is one of the best ways for software developers to store their code and e
 2. Clicking **"Download ZIP"**
 
 ![alt text](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59f7ae11_usegithub/usegithub.png "How To Download a Project From Github")
+
+### Notes
+
+This project was built for Google Cardboard on Android and tested with a Samsung Galaxy S5 running API 19.
